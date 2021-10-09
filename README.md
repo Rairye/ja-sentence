@@ -2,6 +2,10 @@
 
 A light-weight sentence tokenizer for Japanese.
 
+## Installation
+
+pip install ja-sentence
+
 ## Sample
 
 ```python
