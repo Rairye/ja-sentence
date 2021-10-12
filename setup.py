@@ -2,12 +2,12 @@ from distutils.core import setup
 setup(
   name = 'ja_sentence',  
   packages = ['ja_sentence'], 
-  version = '0.0.1', 
+  version = '0.0.2', 
   license='apache-2.0', 
   description = 'Light-weight sentence tokenizer for Japanese.',
   author = 'Rairye', 
   url = 'https://github.com/Rairye/ja-sentence',   
-  download_url = 'https://github.com/Rairye/ja-sentence/archive/refs/tags/v0.0.1.tar.gz',
+  download_url = 'https://github.com/Rairye/ja-sentence/archive/refs/tags/v0.0.2.tar.gz',
   keywords = ['Japanese', 'Sentence', 'Tokenizer'],
 
   classifiers=[
