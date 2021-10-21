@@ -18,3 +18,7 @@ sentence_list = tokenize(paragraph_str)
 for sentence in sentence_list:
 	print(sentence)
 ```
+
+## Other languages
+
+JavaScript -> https://github.com/Rairye/js-sentence-tokenizers
